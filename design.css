@@ -4,7 +4,7 @@
 }
 
 h5{
-    padding: 15px;
+    padding-top: 20px;
    
 }
 
@@ -15,8 +15,12 @@ h5{
  
 }
 
+.card p{
+    padding-left: 30px;
+}
+
 .card img{
-    padding: 20px;
+    padding: 5px 10px;
 }
 
 .writer-stage ul li{
@@ -24,14 +28,17 @@ h5{
     font-size: 16px;
     padding: 10px;
     background: #EAEAEA;
+    margin-bottom: 20px;
 }
 
-
-
 a{
-position: absolute;
-top: 16rem;
-left: 65%;
+    position: relative;
+    left: 53rem;
+    bottom: 2rem;
+}
+
+.fade-text{
+    color: #857f7f;
 }
 .card-body{
     height: 30rem;
@@ -41,8 +48,13 @@ hr{
     width: 88rem;
 }
 
- u{
- 
+ .card-title{
+    padding: 10px 23px;
+    margin-top: 10px;
+}
+
+.hr-2{
+    width: 100%;
     
 }
 
