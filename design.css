@@ -4,24 +4,45 @@
 }
 
 h5{
-    padding: 5px;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    padding: 15px;
+   
 }
 
 .card{
     width: 25rem;
- margin-left: 1rem;
-    font-size: 13px;
-   
+ margin-left: 23rem;
+    font-size: 16px;
+ 
 }
 
-ul li{
-    width: 100%;
-    font-size: 13px;
-    padding: 5px;
+.card img{
+    padding: 20px;
 }
 
+.writer-stage ul li{
+    width: 60rem;
+    font-size: 16px;
+    padding: 10px;
+    background: #EAEAEA;
+}
+
+
+
+a{
+position: absolute;
+top: 16rem;
+left: 65%;
+}
 .card-body{
-    height: 25rem;
+    height: 30rem;
 }
+
+hr{
+    width: 88rem;
+}
+
+ u{
+ 
+    
+}
+
